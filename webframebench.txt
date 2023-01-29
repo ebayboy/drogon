@@ -1,0 +1,467 @@
+Best fortunes responses per second, Dell R440 Xeon Gold + 10 GbE(464 tests)
+Rnk	Framework	Best performance (higher is better)	Errors	Cls	Lng	Plt	FE	Aos	DB	Dos	Orm	IA
+1	 drogon-core	616,607	100.0%	0	Ful	C++	Non	Non	Lin	Pg	Lin	Raw	Rea
+2	xitca-web	587,955	95.4%	0	Plt	rs	Non	xit	Lin	Pg	Lin	Raw	Rea
+3	 drogon	556,046	90.2%	0	Ful	C++	Non	Non	Lin	Pg	Lin	Mcr	Rea
+4	salvo [pg]	542,547	88.0%	0	Mcr	rs	rs	hyp	Lin	Pg	Lin	Raw	Rea
+5	just-js	538,414	87.3%	0	Plt	JS	jus	Non	Lin	Pg	Lin	Raw	Rea
+6	may-minihttp	520,976	84.5%	0	Mcr	rs	rs	may	Lin	Pg	Lin	Raw	Rea
+7	 actix-http	512,422	83.1%	0	Plt	rs	Non	act	Lin	Pg	Lin	Raw	Rea
+8	axum [postgresql]	498,541	80.9%	0	Ful	rs	rs	hyp	Lin	Pg	Lin	Raw	Rea
+9	 aspcore-ado-pg	458,677	74.4%	0	Plt	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+10	officefloor-sqlclient	432,309	70.1%	0	Plt	Jav	off	woo	Lin	Pg	Lin	Raw	Rea
+11	officefloor-async	416,875	67.6%	0	Plt	Jav	off	woo	Lin	Pg	Lin	Raw	Rea
+12	jooby-pgclient	404,885	65.7%	0	Ful	Jav	Utw	Non	Lin	Pg	Lin	Raw	Rea
+13	 aspcore-mw-ado-pg	395,899	64.2%	0	Mcr	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+14	asp.net core	394,144	63.9%	0	Mcr	C#	.NE	kes	Lin	Pg	Lin	Mcr	Rea
+15	xitca-web [diesel]	393,541	63.8%	0	Mcr	rs	Non	xit	Lin	Pg	Lin	Ful	Rea
+16	h2o	391,802	63.5%	0	Plt	C	Non	h2o	Lin	Pg	Lin	Raw	Rea
+17	appmpower [middleware, pg, ado]	389,298	63.1%	0	Plt	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+18	vertx-postgres	386,935	62.8%	0	Plt	Jav	ver	Non	Lin	Pg	Lin	Raw	Rea
+19	lithium-postgres	384,760	62.4%	0	Mcr	C++	Non	Non	Lin	Pg	Lin	Ful	Rea
+20	lithium-postgres-beta	384,514	62.4%	0	Mcr	C++	Non	Non	Lin	Pg	Lin	Ful	Rea
+21	ffead-cpp-postgresql-raw	382,792	62.1%	0	Ful	C++	Non	ffe	Lin	Pg	Lin	Raw	Rea
+22	atreugo-prefork	381,480	61.9%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+23	fasthttp-prefork	379,098	61.5%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+24	fiber-prefork	368,162	59.7%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+25	inverno	364,150	59.1%	0	Mcr	Jav	inv	Non	Lin	Pg	Lin	Mcr	Rea
+26	beetlex-core	357,490	58.0%	0	Plt	C#	.NE	bee	Lin	Pg	Lin	Raw	Rea
+27	beetlex-core-updb	355,728	57.7%	0	Plt	C#	.NE	bee	Lin	Pg	Lin	Raw	Rea
+28	atreugo	351,162	57.0%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+29	vertx-web-kotlin-coroutines-postgres	350,100	56.8%	0	Mcr	Kot	ver	Non	Lin	Pg	Lin	Raw	Rea
+30	fasthttp	349,942	56.8%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+31	php-ngx-pgsql	348,430	56.5%	0	Plt	PHP	ngx	ngx	Lin	Pg	Lin	Raw	Rea
+32	workerman-php8-jit	347,686	56.4%	0	Plt	PHP	wor	Non	Lin	Pg	Lin	Raw	Rea
+33	hyper-db	345,437	56.0%	0	Mcr	rs	rs	hyp	Lin	Pg	Lin	Raw	Rea
+34	fiber	342,790	55.6%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+35	webman	342,625	55.6%	0	Mcr	PHP	wor	Non	Lin	Pg	Lin	Raw	Rea
+36	 aspcore-mw-dap-pg	338,524	54.9%	0	Mcr	C#	.NE	kes	Lin	Pg	Lin	Mcr	Rea
+37	gearbox	336,240	54.5%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+38	 aspcore-mw-ef-pg	335,786	54.5%	0	Mcr	C#	.NE	kes	Lin	Pg	Lin	Ful	Rea
+39	workerman-pgsql	329,309	53.4%	0	Plt	PHP	wor	Non	Lin	Pg	Lin	Raw	Rea
+40	vertx-web-postgres	327,704	53.1%	0	Mcr	Jav	ver	Non	Lin	Pg	Lin	Raw	Rea
+41	ubiquity-workerman-raw	326,679	53.0%	0	Ful	PHP	wor	Non	Lin	Pg	Lin	Raw	Rea
+42	greenlightning	311,236	50.5%	0	Mcr	Jav	Non	Non	Lin	Pg	Lin	Raw	Rea
+43	mixphp-workerman-pgsql	309,269	50.2%	0	Ful	PHP	wor	Non	Lin	Pg	Lin	Raw	Rea
+44	wizzardo-http	307,614	49.9%	18	Mcr	Jav	Non	Non	Lin	Pg	Lin	Raw	Rea
+45	gearbox	306,662	49.7%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+46	ubiquity-ngx-raw	305,653	49.6%	0	Ful	PHP	ngx	ngx	Lin	Pg	Lin	Raw	Rea
+47	kooby	301,582	48.9%	0	Ful	Kot	Utw	Non	Lin	Pg	Lin	Raw	Rea
+48	jooby-jaxrs	296,826	48.1%	0	Ful	Jav	Utw	Non	Lin	Pg	Lin	Raw	Rea
+49	jooby	296,448	48.1%	0	Ful	Jav	Utw	Non	Lin	Pg	Lin	Raw	Rea
+50	swoole-postgres	294,138	47.7%	0	Plt	PHP	swo	Non	Lin	Pg	Lin	Raw	Rea
+51	open swoole postgres	292,875	47.5%	0	Plt	PHP	ope	Non	Lin	Pg	Lin	Raw	Rea
+52	go-pgx-prefork-quicktemplate	281,291	45.6%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+53	kumbiaphp-workerman	274,756	44.6%	0	Ful	PHP	wor	Non	Lin	Pg	Lin	Raw	Rea
+54	goframe	270,993	43.9%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+55	jooby-netty	261,830	42.5%	0	Ful	Jav	Nty	Non	Lin	Pg	Lin	Raw	Rea
+56	workerman	260,911	42.3%	0	Plt	PHP	wor	Non	Lin	My	Lin	Raw	Rea
+57	proteus	260,500	42.2%	0	Mcr	Jav	Utw	Non	Lin	Pg	Lin	Raw	Rea
+58	redkale-mysql	256,414	41.6%	0	Ful	Jav	red	red	Lin	My	Lin	Raw	Rea
+59	swoole-no-async	252,161	40.9%	0	Plt	PHP	swo	Non	Lin	My	Lin	Raw	Rea
+60	zebra	251,298	40.8%	0	Ful	f#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+61	lithium	249,919	40.5%	0	Mcr	C++	Non	Non	Lin	My	Lin	Ful	Rea
+62	gemini-postgres	249,386	40.4%	0	Ful	Jav	Svt	Res	Lin	Pg	Lin	Mcr	Rea
+63	jooby-jetty	248,471	40.3%	0	Ful	Jav	Jty	Non	Lin	Pg	Lin	Raw	Rea
+64	php-ngx-mysql	246,597	40.0%	0	Plt	PHP	ngx	ngx	Lin	My	Lin	Raw	Rea
+65	open swoole no-async	246,027	39.9%	0	Plt	PHP	ope	Non	Lin	My	Lin	Raw	Rea
+66	swoole	244,866	39.7%	0	Plt	PHP	swo	Non	Lin	My	Lin	Raw	Rea
+67	zysocket-v	243,458	39.5%	0	Ful	C#	.NE	zys	Lin	Pg	Lin	Raw	Rea
+68	open swoole	240,493	39.0%	0	Plt	PHP	ope	Non	Lin	My	Lin	Raw	Rea
+69	helidon	227,138	36.8%	0	Mcr	Jav	Nty	Non	Lin	Pg	Lin	Raw	Rea
+70	officefloor-r2dbc	224,002	36.3%	0	Plt	Jav	off	woo	Lin	Pg	Lin	Raw	Rea
+71	kumbiaphp-workerman-mysql	222,263	36.0%	0	Ful	PHP	wor	Non	Lin	My	Lin	Mcr	Rea
+72	ubiquity-workerman-mysql	221,456	35.9%	0	Ful	PHP	wor	Non	Lin	My	Lin	Ful	Rea
+73	giraffe	220,143	35.7%	0	Ful	f#	.NE	kes	Lin	Pg	Lin	Mcr	Rea
+74	simps	220,138	35.7%	0	Mcr	PHP	swo	Non	Lin	My	Lin	Raw	Rea
+75	mixphp-workerman-mysql	218,874	35.5%	0	Ful	PHP	wor	Non	Lin	My	Lin	Mcr	Rea
+76	light-4j	218,600	35.5%	0	Plt	Jav	lig	Non	Lin	Pg	Lin	Raw	Rea
+77	http4k-apache4	217,678	35.3%	0	Mcr	Kot	apa	Non	Lin	Pg	Lin	Raw	Rea
+78	vertx-web-scala	216,891	35.2%	0	Mcr	Sca	ver	Non	Lin	Pg	Lin	Raw	Rea
+79	go-pgx-quicktemplate	216,583	35.1%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+80	axum [mongodb]	216,414	35.1%	0	Ful	rs	rs	hyp	Lin	Mo	Lin	Raw	Rea
+81	jlhttp-postgres	214,489	34.8%	0	Plt	Jav	JLH	Non	Lin	Pg	Lin	Raw	Rea
+82	 asp.net core [platform, my]	212,792	34.5%	0	Plt	C#	.NE	kes	Lin	My	Lin	Raw	Rea
+83	ubiquity-workerman	212,745	34.5%	0	Ful	PHP	wor	Non	Lin	Pg	Lin	Ful	Rea
+84	 aspcore-mw-ado-my	212,266	34.4%	0	Mcr	C#	.NE	kes	Lin	My	Lin	Raw	Rea
+85	rapidoid-postgres	207,293	33.6%	0	Plt	Jav	Rap	Non	Lin	Pg	Lin	Mcr	Rea
+86	crystal	206,580	33.5%	0	Plt	Cry	Non	Non	Lin	Pg	Lin	Raw	Rea
+87	crystal-radix	206,001	33.4%	0	Plt	Cry	Non	Non	Lin	Pg	Lin	Raw	Rea
+88	kemal	204,639	33.2%	0	Ful	Cry	Non	Non	Lin	Pg	Lin	Mcr	Rea
+89	appmpower [middleware, pg, odbc]	204,360	33.1%	0	Plt	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+90	grip	203,769	33.0%	0	Mcr	Cry	Non	Non	Lin	Pg	Lin	Raw	Rea
+91	revenj-jvm	202,272	32.8%	0	Ful	Jav	Svt	Res	Lin	Pg	Lin	Ful	Rea
+92	raze	201,511	32.7%	0	Ful	Cry	Non	Non	Lin	Pg	Lin	Mcr	Rea
+93	lucky	200,048	32.4%	0	Ful	Cry	Non	Non	Lin	Pg	Lin	Ful	Rea
+94	 aspcore-mw-dap-my	197,006	32.0%	0	Mcr	C#	.NE	kes	Lin	My	Lin	Mcr	Rea
+95	http4k-netty	195,687	31.7%	0	Mcr	Kot	Nty	Non	Lin	Pg	Lin	Raw	Rea
+96	comet	195,551	31.7%	0	Mcr	PHP	wor	Non	Lin	Pg	Lin	Raw	Rea
+97	ffead-cpp-postgresql-raw-async-clibpqb-p	193,567	31.4%	0	Ful	C++	Non	ffe	Lin	Pg	Lin	Raw	Rea
+98	http4k-ratpack	191,301	31.0%	0	Mcr	Kot	Nty	Non	Lin	Pg	Lin	Raw	Rea
+99	cutelyst-thread-apg	190,023	30.8%	0	Ful	C++	cut	Non	Lin	Pg	Lin	Raw	Rea
+100	redkale	189,706	30.8%	218	Ful	Jav	red	red	Lin	Pg	Lin	Raw	Rea
+101	comet-mysql	189,138	30.7%	0	Mcr	PHP	wor	Non	Lin	My	Lin	Raw	Rea
+102	 actix web [diesel]	188,277	30.5%	0	Mcr	rs	act	act	Lin	Pg	Lin	Ful	Rea
+103	hexagon netty epoll postgresql	186,880	30.3%	0	Mcr	Kot	Nty	Non	Lin	Pg	Lin	Raw	Rea
+104	ffead-cpp-v-picov	186,724	30.3%	0	Ful	C++	Non	pic	Lin	Pg	Lin	Raw	Rea
+105	http4k-apache	185,964	30.2%	0	Mcr	Kot	apa	Non	Lin	Pg	Lin	Raw	Rea
+106	ubiquity-ngx	184,875	30.0%	0	Ful	PHP	ngx	ngx	Lin	Pg	Lin	Ful	Rea
+107	ffead-cpp [v-prof]	184,816	30.0%	0	Ful	C++	Non	pic	Lin	Pg	Lin	Raw	Rea
+108	php-ngx-async	184,328	29.9%	0	Plt	PHP	ngx	ngx	Lin	My	Lin	Raw	Rea
+109	 aspcore-mvc-ado-pg	184,088	29.9%	0	Ful	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+110	ubiquity-swoole-mysql	183,866	29.8%	0	Ful	PHP	swo	Non	Lin	My	Lin	Ful	Rea
+111	ubiquity-swoole	183,241	29.7%	6	Ful	PHP	swo	Non	Lin	Pg	Lin	Ful	Rea
+112	openresty	181,974	29.5%	0	Plt	Lua	OpR	ngx	Lin	My	Lin	Raw	Rea
+113	http4k-undertow	181,768	29.5%	0	Mcr	Kot	Utw	Non	Lin	Pg	Lin	Raw	Rea
+114	ffead-cpp-postgresql-raw-profiled	181,323	29.4%	0	Ful	C++	Non	ffe	Lin	Pg	Lin	Raw	Rea
+115	salvo [diesel]	180,327	29.2%	0	Mcr	rs	rs	hyp	Lin	Pg	Lin	Raw	Rea
+116	mixphp-swoole-mysql	178,089	28.9%	0	Ful	PHP	swo	Non	Lin	My	Lin	Mcr	Rea
+117	hexagon netty postgresql	177,323	28.8%	0	Mcr	Kot	Nty	Non	Lin	Pg	Lin	Raw	Rea
+118	ffead-cpp-postgresql-raw-clibpqb-profile	175,885	28.5%	0	Ful	C++	Non	ffe	Lin	Pg	Lin	Raw	Rea
+119	easyrpc	174,219	28.3%	0	Ful	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+120	 aspcore-mvc-dap-pg	171,188	27.8%	0	Ful	C#	.NE	kes	Lin	Pg	Lin	Mcr	Rea
+121	 aspcore-vb-mw-ado-my	170,264	27.6%	0	Mcr	vb	.NE	kes	Lin	My	Lin	Raw	Rea
+122	http4k-jetty	167,345	27.1%	0	Mcr	Kot	Jty	Non	Lin	Pg	Lin	Raw	Rea
+123	undertow-postgresql	166,503	27.0%	0	Plt	Jav	Utw	Non	Lin	Pg	Lin	Raw	Rea
+124	hexagon	165,604	26.9%	0	Mcr	Kot	Svt	Non	Lin	Pg	Lin	Raw	Rea
+125	 aspcore-mvc-ef-pg	160,645	26.1%	0	Ful	C#	.NE	kes	Lin	Pg	Lin	Ful	Rea
+126	redkale-graalvm	158,618	25.7%	68	Ful	Jav	red	red	Lin	Pg	Lin	Raw	Rea
+127	appmpower [middleware, my, odbc]	157,883	25.6%	0	Plt	C#	.NE	kes	Lin	My	Lin	Raw	Rea
+128	es4x	153,215	24.8%	0	Mcr	JS	ver	Non	Lin	Pg	Lin	Raw	Rea
+129	chi-gojay-prefork	151,202	24.5%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+130	warp-mysql-haskell	149,202	24.2%	0	Mcr	Hkl	Wai	wai	Lin	My	Lin	Raw	Rea
+131	axum [postgresql - deadpool]	148,040	24.0%	0	Ful	rs	rs	hyp	Lin	Pg	Lin	Raw	Rea
+132	cutelyst-thr-pg-raw	147,841	24.0%	0	Ful	C++	cut	Non	Lin	Pg	Lin	Raw	Rea
+133	chi-sjson-prefork	147,580	23.9%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+134	cutelyst-pf-pg	147,295	23.9%	0	Ful	C++	cut	Non	Lin	Pg	Lin	Raw	Rea
+135	aleph	146,919	23.8%	0	Mcr	Clj	Nty	Non	Lin	Pg	Lin	Raw	Rea
+136	imi-swoole-pgsql-raw	145,987	23.7%	0	Mcr	PHP	swo	Non	Lin	Pg	Lin	Raw	Rea
+137	chi-prefork	145,538	23.6%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+138	beetlex	144,880	23.5%	0	Ful	C#	.NE	bee	Lin	Pg	Lin	Raw	Rea
+139	 actix web [mongodb]	144,210	23.4%	0	Mcr	rs	Non	act	Lin	Mo	Lin	Raw	Rea
+140	warp	143,326	23.2%	0	Mcr	Hkl	Wai	wai	Lin	Pg	Lin	Raw	Rea
+141	proteus-mysql	142,744	23.1%	0	Mcr	Jav	Utw	Non	Lin	My	Lin	Raw	Rea
+142	imi-swoole-mysql-raw	142,292	23.1%	0	Mcr	PHP	swo	Non	Lin	My	Lin	Raw	Rea
+143	go-my-prefork	139,919	22.7%	0	Plt	Go	Non	Non	Lin	My	Lin	Raw	Rea
+144	 aspcore-vb-mw-ado-pg	137,751	22.3%	0	Mcr	vb	.NE	kes	Lin	Pg	Lin	Raw	Rea
+145	hexagon tomcat postgresql	137,300	22.3%	0	Mcr	Kot	Svt	tom	Lin	Pg	Lin	Raw	Rea
+146	redkale-native	137,027	22.2%	137	Ful	Jav	red	red	Lin	Pg	Lin	Raw	Rea
+147	silicon	135,902	22.0%	0	Mcr	C++	Non	mic	Lin	My	Lin	Ful	Rea
+148	cutelyst-pf-apg	135,587	22.0%	0	Ful	C++	cut	Non	Lin	Pg	Lin	Raw	Rea
+149	 aspcore-mvc-ado-my	132,990	21.6%	0	Ful	C#	.NE	kes	Lin	My	Lin	Raw	Rea
+150	 aspcore-mvc-dap-my	131,743	21.4%	0	Ful	C#	.NE	kes	Lin	My	Lin	Mcr	Rea
+151	one	131,470	21.3%	0	Ful	PHP	swo	Non	Lin	My	Lin	Ful	Rea
+152	gemini-mysql	131,151	21.3%	0	Ful	Jav	Svt	Res	Lin	My	Lin	Mcr	Rea
+153	go-pgx-prefork	130,488	21.2%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+154	ratpack-jdbc	129,502	21.0%	0	Mcr	Jav	Nty	Non	Lin	Pg	Lin	Raw	Rea
+155	ratpack-pgclient	128,064	20.8%	0	Mcr	Jav	Nty	Non	Lin	Pg	Lin	Raw	Rea
+156	imi-workerman-mysql-raw	127,228	20.6%	0	Mcr	PHP	wor	Non	Lin	My	Lin	Raw	Rea
+157	ubiquity-workerman-mongo	126,609	20.5%	0	Ful	PHP	wor	Non	Lin	Mo	Lin	Ful	Rea
+158	polkadot-postgres	125,706	20.4%	0	Plt	JS	Non	Non	Lin	Pg	Lin	Raw	Rea
+159	rapidoid-mysql	123,935	20.1%	0	Plt	Jav	Rap	Non	Lin	My	Lin	Mcr	Rea
+160	quarkus resteasy reactive + hibernate re	117,801	19.1%	0	Ful	Jav	res	ver	Lin	Pg	Lin	Ful	Rea
+161	warp-hasql	116,407	18.9%	0	Mcr	Hkl	Wai	wai	Lin	Pg	Lin	Raw	Rea
+162	 gin	116,132	18.8%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+163	hserver	114,191	18.5%	0	Ful	Jav	Non	Non	Lin	Pg	Lin	Ful	Rea
+164	treefrog-mongodb	112,488	18.2%	0	Ful	C++	Non	Non	Lin	Mo	Lin	Mcr	Rea
+165	one-no-coroutine	110,845	18.0%	0	Ful	PHP	swo	Non	Lin	My	Lin	Ful	Rea
+166	go-pgx	109,239	17.7%	0	Plt	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+167	quarkus resteasy reactive + hibernate	109,034	17.7%	0	Ful	Jav	res	ver	Lin	Pg	Lin	Ful	Rea
+168	go-mgo-prefork	108,700	17.6%	0	Plt	Go	Non	Non	Lin	Mo	Lin	Raw	Rea
+169	 actix-web-pg-deadpool	108,334	17.6%	0	Mcr	rs	Non	act	Lin	Pg	Lin	Raw	Rea
+170	polkadot-mongodb	107,584	17.4%	0	Plt	JS	Non	Non	Lin	Mo	Lin	Raw	Rea
+171	chi	107,018	17.4%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+172	officefloor-thread_affinity	106,399	17.3%	0	Ful	Jav	off	woo	Lin	Pg	Lin	Raw	Rea
+173	http4k-ktornetty	106,091	17.2%	0	Mcr	Kot	kto	Non	Lin	Pg	Lin	Raw	Rea
+174	php-unit	105,656	17.1%	0	Plt	PHP	uni	Non	Lin	My	Lin	Raw	Rea
+175	chi-sjson	104,605	17.0%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+176	kami	104,471	16.9%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+177	chi-gojay	104,162	16.9%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+178	fintrospect	104,030	16.9%	0	Mcr	Sca	Nty	Non	Lin	My	Lin	Raw	Rea
+179	servlet-postgresql	103,439	16.8%	0	Plt	Jav	Svt	Res	Lin	Pg	Lin	Raw	Rea
+180	cutelyst-t-apg-cutelee	103,433	16.8%	0	Ful	C++	cut	Non	Lin	Pg	Lin	Raw	Rea
+181	chi-scratch	103,315	16.8%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+182	polkadot-mysql	100,625	16.3%	0	Plt	JS	njs	Non	Lin	My	Lin	Raw	Rea
+183	quarkus	99,383	16.1%	0	Ful	Jav	JAX	ver	Lin	Pg	Lin	Ful	Rea
+184	javalin-postgres	98,303	15.9%	0	Mcr	Jav	Jty	Non	Lin	Pg	Lin	Raw	Rea
+185	akka-http	98,124	15.9%	0	Mcr	Sca	Akk	Non	Lin	My	Lin	Raw	Rea
+186	spliffy	96,686	15.7%	0	Mcr	JS	njs	µws	Lin	Pg	Lin	Raw	Rea
+187	php-pgsql-raw	95,060	15.4%	0	Plt	PHP	fpm	ngx	Lin	Pg	Lin	Raw	Rea
+188	goji	94,514	15.3%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+189	aah-postgresql	94,318	15.3%	0	Ful	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+190	 gin-scratch	93,222	15.1%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+191	cutelyst-thr-pg-cutelee	91,327	14.8%	0	Ful	C++	cut	Non	Lin	Pg	Lin	Raw	Rea
+192	treefrog	90,546	14.7%	0	Ful	C++	Non	Non	Lin	Pg	Lin	Mcr	Rea
+193	 aspcore-mono-pg	89,859	14.6%	0	Plt	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+194	servlet-mysql	89,551	14.5%	0	Plt	Jav	Svt	Res	Lin	My	Lin	Raw	Rea
+195	php	89,430	14.5%	0	Plt	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+196	php-pools	89,390	14.5%	0	Plt	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+197	php-h2o	88,342	14.3%	0	Plt	PHP	fpm	h2o	Lin	My	Lin	Raw	Rea
+198	go-my	88,005	14.3%	0	Plt	Go	Non	Non	Lin	My	Lin	Raw	Rea
+199	servant-psql-simple	87,673	14.2%	0	Mcr	Hkl	Wai	Wrp	Lin	Pg	Lin	Raw	Rea
+200	clevergo	87,174	14.1%	0	Mcr	Go	Non	Non	Lin	My	Lin	Raw	Rea
+201	pedestal	86,851	14.1%	0	Mcr	Clj	Jty	Non	Lin	My	Lin	Mcr	Rea
+202	php-raw7-tcp	86,654	14.1%	0	Plt	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+203	opium-fedora-forks	85,518	13.9%	0	Mcr	oca	htt	Non	Lin	Pg	Lin	Mcr	Rea
+204	http4k-ktorcio	84,842	13.8%	0	Mcr	Kot	kto	Non	Lin	Pg	Lin	Raw	Rea
+205	minijax	83,205	13.5%	0	Ful	Jav	JAX	Utw	Lin	My	Lin	Ful	Rea
+206	spliffy	83,086	13.5%	0	Mcr	JS	njs	µws	Lin	My	Lin	Raw	Rea
+207	opium-alpine-forks	82,040	13.3%	0	Mcr	oca	htt	Non	Lin	Pg	Lin	Mcr	Rea
+208	cutelyst-pf-my	81,472	13.2%	0	Ful	C++	cut	Non	Lin	My	Lin	Raw	Rea
+209	cutelyst-thread-my	81,260	13.2%	0	Ful	C++	cut	Non	Lin	My	Lin	Raw	Rea
+210	fastify-postgres	80,800	13.1%	0	Mcr	JS	njs	Non	Lin	Pg	Lin	Raw	Rea
+211	ffead-cpp	80,522	13.1%	0	Ful	C++	Non	ffe	Lin	Mo	Lin	Ful	Rea
+212	nodejs-mongodb-raw	80,386	13.0%	0	Plt	JS	njs	Non	Lin	Mo	Lin	Raw	Rea
+213	nodejs	80,243	13.0%	0	Plt	JS	njs	Non	Lin	My	Lin	Raw	Rea
+214	play2-java-jpa-hikaricp-netty	79,944	13.0%	0	Ful	Jav	Nty	Non	Lin	My	Lin	Ful	Rea
+215	nodejs-chakra	79,851	13.0%	0	Plt	JS	njs	Non	Lin	My	Lin	Raw	Rea
+216	javalin-mongodb	79,579	12.9%	0	Mcr	Jav	Jty	Non	Lin	Mo	Lin	Raw	Rea
+217	fastify-mysql	78,768	12.8%	0	Mcr	JS	njs	Non	Lin	My	Lin	Raw	Rea
+218	lwan	76,890	12.5%	0	Mcr	C	Lwa	lwa	Lin	My	Lin	Raw	Rea
+219	toro	76,415	12.4%	288	Mcr	Cry	Non	Non	Lin	Pg	Lin	Raw	Rea
+220	duct	76,193	12.4%	0	Mcr	Clj	Rin	Non	Lin	Pg	Lin	Raw	Rea
+221	treefrog-mysql	75,654	12.3%	0	Ful	C++	Non	Non	Lin	My	Lin	Mcr	Rea
+222	lapis	73,947	12.0%	0	Ful	Lua	OpR	ngx	Lin	Pg	Lin	Ful	Rea
+223	http-kit-raw	73,929	12.0%	0	Plt	Clj	Rin	Non	Lin	My	Lin	Raw	Rea
+224	kumbiaphp	72,473	11.8%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Mcr	Rea
+225	kumbiaphp-raw	71,422	11.6%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+226	ktor-pgclient	71,405	11.6%	0	Mcr	Kot	Nty	Non	Lin	Pg	Lin	Raw	Rea
+227	fastify	70,689	11.5%	0	Mcr	JS	njs	Non	Lin	Mo	Lin	Raw	Rea
+228	duct-mongodb	70,438	11.4%	0	Mcr	Clj	Rin	Non	Lin	Mo	Lin	Raw	Rea
+229	echo	69,511	11.3%	0	Mcr	Go	Non	Non	Lin	Pg	Lin	Raw	Rea
+230	imi-workerman-pgsql-raw	69,414	11.3%	0	Mcr	PHP	wor	Non	Lin	Pg	Lin	Raw	Rea
+231	play2-java-jooq-hikaricp-netty	69,001	11.2%	0	Ful	Jav	Nty	Non	Lin	My	Lin	Ful	Rea
+232	ubiquity	68,841	11.2%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Ful	Rea
+233	duct-aleph	68,528	11.1%	0	Mcr	Clj	Nty	Non	Lin	Pg	Lin	Raw	Rea
+234	aah-mysql	68,282	11.1%	0	Ful	Go	Non	Non	Lin	My	Lin	Raw	Rea
+235	ktor-cio	67,944	11.0%	0	Mcr	Kot	kto	Non	Lin	Pg	Lin	Raw	Rea
+236	uvicorn	66,275	10.7%	0	Plt	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+237	genhttp	64,606	10.5%	0	Ful	C#	.NE	gen	Lin	Pg	Lin	Raw	Rea
+238	luminus	64,439	10.5%	0	Mcr	Clj	Rin	Non	Lin	Pg	Lin	Raw	Rea
+239	nestjs-fastify	64,005	10.4%	0	Mcr	typ	Non	Non	Lin	Pg	Lin	Ful	Rea
+240	nestjs-fastify-mysql	63,949	10.4%	0	Mcr	typ	Non	Non	Lin	My	Lin	Ful	Rea
+241	nodejs-postgres	63,379	10.3%	0	Plt	JS	njs	Non	Lin	Pg	Lin	Ful	Rea
+242	imi	62,825	10.2%	0	Ful	PHP	swo	Non	Lin	My	Lin	Ful	Rea
+243	play2-java-ebean-hikaricp-netty	62,565	10.1%	0	Ful	Jav	Nty	Non	Lin	My	Lin	Ful	Rea
+244	imi-swoole-pgsql	62,564	10.1%	0	Ful	PHP	swo	Non	Lin	Pg	Lin	Ful	Rea
+245	play2-java-jpa-hikaricp	62,445	10.1%	0	Ful	Jav	Akk	Non	Lin	My	Lin	Ful	Rea
+246	apidaora-core	62,346	10.1%	0	Mcr	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+247	tide	62,065	10.1%	0	Mcr	rs	rs	tid	Lin	Pg	Lin	Ful	Rea
+248	grizzly-jersey	61,945	10.0%	0	Mcr	Jav	JAX	Grz	Lin	My	Lin	Ful	Rea
+249	falco, donald	61,852	10.0%	0	Mcr	f#	.NE	kes	Lin	Pg	Lin	Mcr	Rea
+250	nestjs-fastify-mongo	61,033	9.9%	0	Mcr	typ	Non	Non	Lin	Mo	Lin	Ful	Rea
+251	jawn	60,879	9.9%	0	Ful	Jav	Utw	Non	Lin	Pg	Lin	Raw	Rea
+252	officefloor-undertow	60,192	9.8%	0	Ful	Jav	off	Utw	Lin	Pg	Lin	Ful	Rea
+253	roa-pg	59,426	9.6%	0	Mcr	rs	Non	hyp	Lin	Pg	Lin	Raw	Rea
+254	cutelyst-thread-my-cutelee	59,257	9.6%	0	Ful	C++	cut	Non	Lin	My	Lin	Raw	Rea
+255	dropwizard-postgres	59,104	9.6%	0	Ful	Jav	JAX	Jty	Lin	Pg	Lin	Ful	Rea
+256	sanic	59,032	9.6%	0	Mcr	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+257	 phoenix	58,940	9.6%	0	Ful	Eli	Cow	Non	Lin	Pg	Lin	Ful	Rea
+258	ktor	58,447	9.5%	0	Mcr	Kot	Nty	Non	Lin	Pg	Lin	Raw	Rea
+259	roa-diesel	57,879	9.4%	0	Mcr	rs	Non	hyp	Lin	Pg	Lin	Ful	Rea
+260	imi-workerman	57,504	9.3%	0	Ful	PHP	wor	Non	Lin	My	Lin	Ful	Rea
+261	apidaora	57,284	9.3%	0	Mcr	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+262	officefloor-netty	56,715	9.2%	0	Ful	Jav	off	Nty	Lin	Pg	Lin	Ful	Rea
+263	play2-scala-anorm-netty	55,761	9.0%	0	Ful	Sca	Nty	Non	Lin	My	Lin	Ful	Rea
+264	axum [postgresql - sqlx]	55,475	9.0%	0	Ful	rs	rs	hyp	Lin	Pg	Lin	Raw	Rea
+265	officefloor-micro	55,003	8.9%	0	Ful	Jav	off	woo	Lin	Pg	Lin	Raw	Rea
+266	 aspcore-mono-mw-pg	54,682	8.9%	0	Mcr	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+267	play2-java-jooq-hikaricp	54,342	8.8%	0	Ful	Jav	Akk	Non	Lin	My	Lin	Ful	Rea
+268	amp	54,231	8.8%	0	Plt	PHP	amp	Non	Lin	My	Lin	Raw	Rea
+269	cfml-adobe	54,226	8.8%	0	Plt	cfm	Non	Non	Lin	Pg	Lin	Raw	Rea
+270	opium-haproxy	54,101	8.8%	0	Mcr	oca	htt	hap	Lin	Pg	Lin	Mcr	Rea
+271	play2-scala-slick-netty	53,849	8.7%	0	Ful	Sca	Nty	Non	Lin	My	Lin	Ful	Rea
+272	spliffy	53,239	8.6%	0	Mcr	JS	njs	µws	Lin	Mo	Lin	Raw	Rea
+273	cfml-lucee	53,172	8.6%	0	Plt	cfm	Non	Non	Lin	Pg	Lin	Raw	Rea
+274	http4s	53,041	8.6%	0	Mcr	Sca	NIO	bla	Lin	Pg	Lin	Raw	Rea
+275	vibe.d-ldc	52,043	8.4%	0	Plt	D	Non	Non	Lin	Mo	Lin	Mcr	Rea
+276	duckphp	51,801	8.4%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+277	play2-java-ebean-hikaricp	51,201	8.3%	0	Ful	Jav	Akk	Non	Lin	My	Lin	Ful	Rea
+278	fastapi-orjson	50,877	8.3%	0	Mcr	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+279	fastapi	50,608	8.2%	0	Mcr	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+280	roda-sequel-postgres	50,323	8.2%	0	Mcr	Rby	Rac	Pum	Lin	Pg	Lin	Ful	Rea
+281	play2-scala-anorm	50,052	8.1%	0	Ful	Sca	Akk	Non	Lin	My	Lin	Ful	Rea
+282	peachpie	50,051	8.1%	0	Plt	PHP	.NE	kes	Lin	My	Lin	Raw	Rea
+283	vibe.d	49,791	8.1%	0	Mcr	D	Non	Non	Lin	Mo	Lin	Mcr	Rea
+284	dropwizard	49,757	8.1%	0	Ful	Jav	JAX	Jty	Lin	My	Lin	Ful	Rea
+285	nodejs-mysql	49,130	8.0%	0	Plt	JS	njs	Non	Lin	My	Lin	Ful	Rea
+286	koa-postgres	48,826	7.9%	0	Mcr	JS	njs	Non	Lin	Pg	Lin	Raw	Rea
+287	roda-sequel	48,435	7.9%	0	Mcr	Rby	Rac	Pum	Lin	My	Lin	Ful	Rea
+288	officefloor	47,785	7.7%	0	Ful	Jav	off	woo	Lin	Pg	Lin	Ful	Rea
+289	mixphp	46,821	7.6%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Mcr	Rea
+290	aiohttp-pg-raw	46,789	7.6%	0	Mcr	Py	asy	Gun	Lin	Pg	Lin	Raw	Rea
+291	http-kit	46,698	7.6%	0	Plt	Clj	Rin	Non	Lin	My	Lin	Mcr	Rea
+292	imi-workerman-pgsql	45,894	7.4%	0	Ful	PHP	wor	Non	Lin	Pg	Lin	Ful	Rea
+293	compojure	45,427	7.4%	0	Mcr	Clj	Svt	Res	Lin	My	Lin	Mcr	Rea
+294	koa-mysql	43,637	7.1%	0	Mcr	JS	njs	Non	Lin	My	Lin	Raw	Rea
+295	play2-scala-slick	42,972	7.0%	0	Ful	Sca	Akk	Non	Lin	My	Lin	Ful	Rea
+296	hummingbird	42,417	6.9%	0	Mcr	Swi	Non	Non	Lin	Pg	Lin	Raw	Rea
+297	http4k	42,272	6.9%	0	Mcr	Kot	sun	Non	Lin	Pg	Lin	Raw	Rea
+298	httpserver-postgres	41,559	6.7%	0	Plt	Jav	htt	Non	Lin	Pg	Lin	Raw	Rea
+299	akka-http-slick-postgres	41,203	6.7%	0	Mcr	Sca	Akk	Non	Lin	Pg	Lin	Ful	Rea
+300	 express-postgres	40,737	6.6%	0	Mcr	JS	njs	Non	Lin	Pg	Lin	Ful	Rea
+301	treefrog-epoll	40,652	6.6%	0	Ful	C++	Non	Non	Lin	Pg	Lin	Mcr	Rea
+302	roa-sqlx	40,638	6.6%	0	Mcr	rs	Non	hyp	Lin	Pg	Lin	Raw	Rea
+303	officefloor-vertx	40,269	6.5%	0	Ful	Jav	off	vtx	Lin	Pg	Lin	Ful	Rea
+304	start	39,626	6.4%	0	Mcr	Dar	Non	ngx	Lin	Mo	Lin	Raw	Rea
+305	roda-sequel-postgres-passenger-mri	39,409	6.4%	0	Mcr	Rby	Rac	Pas	Lin	Pg	Lin	Ful	Rea
+306	roda-sequel-passenger-mri	38,714	6.3%	0	Mcr	Rby	Rac	Pas	Lin	My	Lin	Ful	Rea
+307	vibe.d-ldc-pgsql	38,437	6.2%	0	Plt	D	Non	Non	Lin	Pg	Lin	Raw	Rea
+308	vibe.d-pgsql	38,348	6.2%	0	Plt	D	Non	Non	Lin	Pg	Lin	Raw	Rea
+309	frank, dapper	38,278	6.2%	0	Mcr	f#	.NE	kes	Lin	Pg	Lin	Mcr	Rea
+310	hapi-postgres	38,062	6.2%	0	Mcr	JS	njs	Non	Lin	Pg	Lin	Ful	Rea
+311	nestjs	37,547	6.1%	0	Mcr	typ	Non	Non	Lin	Pg	Lin	Ful	Rea
+312	spark	37,482	6.1%	0	Mcr	Jav	Svt	Jty	Lin	My	Lin	Ful	Rea
+313	tapestry	37,272	6.0%	0	Ful	Jav	Svt	Res	Lin	My	Lin	Ful	Rea
+314	wicket	37,233	6.0%	0	Ful	Jav	Svt	Res	Lin	My	Lin	Ful	Rea
+315	roda-sequel-unicorn-mri	37,070	6.0%	0	Mcr	Rby	Rac	Uni	Lin	My	Lin	Ful	Rea
+316	blade	36,713	6.0%	0	Ful	Jav	Non	Non	Lin	My	Lin	Ful	Rea
+317	yii2-workerman	36,625	5.9%	0	Ful	PHP	wor	Non	Lin	My	Lin	Ful	Rea
+318	phalcon-micro	36,254	5.9%	0	Mcr	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+319	flask-raw	36,243	5.9%	0	Mcr	Py	Mei	Non	Lin	Pg	Lin	Raw	Rea
+320	ktor-reactivepg	36,226	5.9%	0	Ful	Kot	Non	Non	Lin	Pg	Lin	Raw	Rea
+321	hapi-mysql	35,605	5.8%	0	Mcr	JS	njs	Non	Lin	My	Lin	Ful	Rea
+322	nestjs-mysql	35,244	5.7%	0	Mcr	typ	Non	Non	Lin	My	Lin	Ful	Rea
+323	stream	34,514	5.6%	0	Mcr	Dar	Non	ngx	Lin	Mo	Lin	Raw	Rea
+324	roda-sequel-postgres-unicorn-mri	34,391	5.6%	112	Mcr	Rby	Rac	Uni	Lin	Pg	Lin	Ful	Rea
+325	yii2-raw	33,752	5.5%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+326	starlette	33,647	5.5%	0	Mcr	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+327	bottle-raw	33,182	5.4%	0	Mcr	Py	Mei	Non	Lin	My	Lin	Raw	Rea
+328	nestjs-mongo	33,090	5.4%	0	Mcr	typ	Non	Non	Lin	Mo	Lin	Ful	Rea
+329	spiral	32,721	5.3%	0	Ful	PHP	roa	Non	Lin	My	Lin	Ful	Rea
+330	sinatra-sequel-unicorn-mri	32,465	5.3%	0	Mcr	Rby	Rac	Uni	Lin	My	Lin	Ful	Rea
+331	 express-mysql	32,016	5.2%	0	Mcr	JS	njs	Non	Lin	My	Lin	Ful	Rea
+332	sinatra-sequel	31,506	5.1%	0	Mcr	Rby	Rac	Pum	Lin	My	Lin	Ful	Rea
+333	sinatra-sequel-postgres	31,386	5.1%	0	Mcr	Rby	Rac	Pum	Lin	Pg	Lin	Ful	Rea
+334	 aspcore-mono-mvc-pg	31,246	5.1%	0	Ful	C#	.NE	kes	Lin	Pg	Lin	Raw	Rea
+335	starlite	30,918	5.0%	0	Mcr	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+336	racket	30,657	5.0%	0	Mcr	rac	rac	rac	Lin	Pg	Lin	Raw	Rea
+337	sinatra-sequel-postgres-unicorn-mri	30,615	5.0%	0	Mcr	Rby	Rac	Uni	Lin	Pg	Lin	Ful	Rea
+338	slim	30,026	4.9%	0	Mcr	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+339	hot-mysql	29,642	4.8%	67	Plt	Grv	Jty	Jty	Lin	My	Lin	Raw	Rea
+340	ktor-jasync	29,479	4.8%	0	Ful	Kot	Non	Non	Lin	Pg	Lin	Raw	Rea
+341	php-eloquent	27,869	4.5%	0	Plt	PHP	fpm	ngx	Lin	My	Lin	Ful	Rea
+342	elixir-plug-ecto	27,308	4.4%	0	Mcr	Eli	bea	cow	Lin	Pg	Lin	Ful	Rea
+343	wildfly-ee	26,395	4.3%	0	Ful	Jav	Svt	Wil	Lin	My	Lin	Ful	Rea
+344	sinatra-sequel-postgres-passenger-mri	26,352	4.3%	0	Mcr	Rby	Rac	Pas	Lin	Pg	Lin	Ful	Rea
+345	sinatra-sequel-passenger-mri	25,930	4.2%	0	Mcr	Rby	Rac	Pas	Lin	My	Lin	Ful	Rea
+346	trillium	25,564	4.1%	0	Mcr	rs	Non	Non	Lin	Pg	Lin	Ful	Rea
+347	codeigniter	24,904	4.0%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+348	fat-free-raw	24,093	3.9%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+349	warp-rust	23,250	3.8%	0	Mcr	rs	rs	hyp	Lin	Pg	Lin	Raw	Rea
+350	revenj	22,891	3.7%	0	Ful	C#	Non	Non	Lin	Pg	Lin	Ful	Rea
+351	 spring	22,478	3.6%	0	Ful	Jav	tom	Non	Lin	Pg	Lin	Mcr	Rea
+352	quart-uvicorn	22,466	3.6%	0	Mcr	Py	Non	uvi	Lin	Pg	Lin	Raw	Rea
+353	cppcms-postgres	21,945	3.6%	0	Plt	C++	Non	Non	Lin	Pg	Lin	Raw	Rea
+354	 spring-mongo	21,771	3.5%	0	Ful	Jav	tom	Non	Lin	Mo	Lin	Ful	Rea
+355	falcon	21,743	3.5%	0	Mcr	Py	Wsg	Mei	Lin	Pg	Lin	Ful	Rea
+356	falcon [meinheld-orjson]	21,557	3.5%	0	Mcr	Py	Wsg	Mei	Lin	Pg	Lin	Ful	Rea
+357	yii2	21,317	3.5%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Ful	Rea
+358	ninja-standalone	21,185	3.4%	0	Ful	Jav	Jty	Non	Lin	My	Lin	Ful	Rea
+359	cppcms	20,916	3.4%	0	Plt	C++	Non	Non	Lin	My	Lin	Raw	Rea
+360	 spring-jpa	20,768	3.4%	0	Ful	Jav	tom	Non	Lin	Pg	Lin	Ful	Rea
+361	phalcon-mongodb	20,602	3.3%	0	Ful	PHP	fpm	ngx	Lin	Mo	Lin	Raw	Rea
+362	ktor-jetty	20,539	3.3%	0	Mcr	Kot	Jty	Non	Lin	Pg	Lin	Raw	Rea
+363	sinatra-sequel-postgres-torquebox-jruby	20,522	3.3%	0	Mcr	Rby	Rac	Tor	Lin	Pg	Lin	Ful	Rea
+364	tornado-py3-uvloop	20,332	3.3%	0	Plt	Py	Non	Tor	Lin	Pg	Lin	Raw	Rea
+365	phalcon	20,098	3.3%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+366	sinatra-sequel-torquebox-jruby	19,452	3.2%	0	Mcr	Rby	Rac	Tor	Lin	My	Lin	Ful	Rea
+367	go-mgo	19,377	3.1%	0	Plt	Go	Non	Non	Lin	Mo	Lin	Raw	Rea
+368	duct-httpkit	18,563	3.0%	0	Mcr	Clj	Rin	Non	Lin	Pg	Lin	Raw	Rea
+369	fat-free	18,562	3.0%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Ful	Rea
+370	dropwizard-mongodb	18,150	2.9%	0	Ful	Jav	JAX	Jty	Lin	Mo	Lin	Ful	Rea
+371	lumen-swoole	17,005	2.8%	0	Mcr	PHP	swo	Non	Lin	My	Lin	Ful	Rea
+372	grails	16,993	2.8%	0	Ful	Grv	Svt	Non	Lin	My	Lin	Ful	Rea
+373	morepath	16,905	2.7%	0	Mcr	Py	Mei	Gun	Lin	Pg	Lin	Ful	Rea
+374	 laravel-laravel-s	16,657	2.7%	0	Ful	PHP	swo	Non	Lin	My	Lin	Ful	Rea
+375	 spring-webflux-mongo	16,573	2.7%	0	Ful	Jav	Nty	Non	Lin	Mo	Lin	Ful	Rea
+376	play2-scala-reactivemongo-netty	16,480	2.7%	0	Ful	Sca	Nty	Non	Lin	Mo	Lin	Ful	Rea
+377	aiohttp	16,436	2.7%	0	Mcr	Py	asy	Gun	Lin	Pg	Lin	Ful	Rea
+378	play2-scala-reactivemongo	16,392	2.7%	0	Ful	Sca	Akk	Non	Lin	Mo	Lin	Ful	Rea
+379	emmett	16,327	2.6%	0	Ful	Py	Non	Non	Lin	Pg	Lin	Ful	Rea
+380	sinatra-unicorn-mri	16,254	2.6%	0	Mcr	Rby	Rac	Uni	Lin	My	Lin	Ful	Rea
+381	sinatra-postgres-unicorn-mri	16,253	2.6%	0	Mcr	Rby	Rac	Uni	Lin	Pg	Lin	Ful	Rea
+382	 laravel-swoole	16,004	2.6%	0	Ful	PHP	swo	Non	Lin	My	Lin	Ful	Rea
+383	pyramid	15,884	2.6%	0	Ful	Py	Non	Mei	Lin	Pg	Lin	Ful	Rea
+384	 django-postgresql	15,573	2.5%	0	Ful	Py	Non	Mei	Lin	Pg	Lin	Ful	Rea
+385	 spring-webflux-pgclient	15,294	2.5%	0	Ful	Jav	Nty	Non	Lin	Pg	Lin	Mcr	Rea
+386	weppy-py3	15,226	2.5%	0	Ful	Py	Mei	Non	Lin	Pg	Lin	Ful	Rea
+387	 spring-webflux-jdbc	15,048	2.4%	0	Ful	Jav	Nty	Non	Lin	Pg	Lin	Mcr	Rea
+388	 django	15,038	2.4%	0	Ful	Py	Non	Mei	Lin	My	Lin	Ful	Rea
+389	micronaut	14,475	2.3%	0	Mcr	Jav	Nty	Non	Lin	Pg	Lin	Raw	Rea
+390	tornado-pypy2	14,291	2.3%	0	Plt	Py	Non	Tor	Lin	Mo	Lin	Raw	Rea
+391	sinatra-postgres-passenger-mri	14,195	2.3%	0	Mcr	Rby	Rac	Pas	Lin	Pg	Lin	Ful	Rea
+392	sinatra-passenger-mri	14,184	2.3%	0	Mcr	Rby	Rac	Pas	Lin	My	Lin	Ful	Rea
+393	coldbox-lucee	13,930	2.3%	0	Ful	cfm	Non	Non	Lin	Pg	Lin	Raw	Rea
+394	ringojs-convenient	13,525	2.2%	0	Mcr	JS	Rin	Non	Lin	My	Lin	Mcr	Rea
+395	macchiato	12,953	2.1%	0	Mcr	Clj	njs	Non	Lin	Pg	Lin	Raw	Rea
+396	bottle-pypy2	12,480	2.0%	0	Mcr	Py	Tor	Non	Lin	My	Lin	Ful	Rea
+397	mojolicious	12,270	2.0%	0	Ful	Prl	Non	Hyp	Lin	Pg	Lin	Raw	Rea
+398	angel3	12,078	2.0%	0	Ful	Dar	ang	Non	Lin	Pg	Lin	Mcr	Rea
+399	tornado-py3	11,745	1.9%	0	Plt	Py	Non	Tor	Lin	Mo	Lin	Raw	Rea
+400	fuel	11,334	1.8%	0	Mcr	PHP	fpm	ngx	Lin	My	Lin	Raw	Rea
+401	officefloor-async	10,647	1.7%	0	Ful	Jav	off	woo	Lin	Pg	Lin	Raw	Rea
+402	flask-pypy-raw	10,534	1.7%	0	Mcr	Py	Mei	Non	Lin	Pg	Lin	Raw	Rea
+403	cakephp	10,524	1.7%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Ful	Rea
+404	web2py-optimized	10,475	1.7%	0	Ful	Py	Mei	Non	Lin	My	Lin	Ful	Rea
+405	turbogears	10,458	1.7%	0	Mcr	Py	Non	Mei	Lin	My	Lin	Ful	Rea
+406	bottle	10,453	1.7%	0	Mcr	Py	Mei	Non	Lin	My	Lin	Ful	Rea
+407	 rails	9,925	1.6%	0	Ful	Rby	Rac	Pum	Lin	Pg	Lin	Ful	Rea
+408	micronaut-graalvm	9,640	1.6%	0	Mcr	Jav	Nty	Non	Lin	Pg	Lin	Raw	Rea
+409	 rails-mysql	9,478	1.5%	0	Ful	Rby	Rac	Pum	Lin	My	Lin	Ful	Rea
+410	opium	9,431	1.5%	0	Mcr	oca	htt	Non	Lin	Pg	Lin	Mcr	Rea
+411	lumen	9,254	1.5%	0	Mcr	PHP	fpm	ngx	Lin	My	Lin	Ful	Rea
+412	urweb-mysql	8,705	1.4%	0	Ful	Ur	Ur/	Non	Lin	My	Lin	Mcr	Rea
+413	falcon [pypy3]	8,564	1.4%	252	Mcr	Py	Wsg	Gun	Lin	Pg	Lin	Ful	Rea
+414	 laravel	8,437	1.4%	0	Ful	PHP	fpm	ngx	Lin	My	Lin	Ful	Rea
+415	hapi	8,137	1.3%	0	Mcr	JS	njs	Non	Lin	Mo	Lin	Ful	Rea
+416	coldbox-adobe	8,064	1.3%	0	Ful	cfm	Non	Non	Lin	Pg	Lin	Raw	Rea
+417	tornado	7,922	1.3%	0	Plt	Py	Non	Tor	Lin	Mo	Lin	Raw	Rea
+418	quart	6,574	1.1%	0	Mcr	Py	Non	hyp	Lin	Pg	Lin	Raw	Rea
+419	feathersjs	5,805	0.9%	0	Ful	typ	Non	Non	Lin	Pg	Lin	Ful	Rea
+420	web2py	5,706	0.9%	0	Ful	Py	Mei	Non	Lin	My	Lin	Ful	Rea
+421	 express-mongodb	5,469	0.9%	0	Mcr	JS	njs	Non	Lin	Mo	Lin	Ful	Rea
+422	urweb	5,463	0.9%	0	Ful	Ur	Ur/	Non	Lin	Pg	Lin	Mcr	Rea
+423	hapi-nginx	5,093	0.8%	0	Mcr	JS	njs	ngx	Lin	Pg	Lin	Ful	Rea
+424	koa	4,827	0.8%	0	Mcr	JS	njs	Non	Lin	Mo	Lin	Raw	Rea
+425	reactphp	4,029	0.7%	0	Plt	PHP	rea	Non	Lin	My	Lin	Raw	Rea
+426	nim-stdlib	3,794	0.6%	0	Plt	Nim	asy	Non	Lin	Pg	Lin	Raw	Rea
+427	deno	3,373	0.5%	0	Plt	typ	den	Non	Lin	Mo	Lin	Raw	Rea
+428	padrino-unicorn	3,295	0.5%	0	Mcr	Rby	Rac	Uni	Lin	My	Lin	Ful	Rea
+429	officefloor-spring_data	2,465	0.4%	0	Ful	Jav	off	woo	Lin	Pg	Lin	Ful	Rea
+430	padrino	2,397	0.4%	0	Mcr	Rby	Rac	Pum	Lin	My	Lin	Ful	Rea
+431	flask	1,869	0.3%	56	Mcr	Py	Mei	Non	Lin	Pg	Lin	Ful	Rea
+432	flask	1,638	0.3%	504	Mcr	Py	Non	Mei	Lin	Pg	Lin	Ful	Rea
+433	phpixie	1,548	0.3%	53,968	Ful	PHP	fpm	ngx	Lin	My	Lin	Ful	Rea
+434	falcon [bjoern]	1,085	0.2%	0	Mcr	Py	Wsg	bjo	Lin	Pg	Lin	Ful	Rea
+435	swi-prolog	825	0.1%	4,384	non	pro	Non	swi	Lin	Pg	Lin	Raw	Rea
+436	 laravel-roadrunner	471	0.1%	0	Ful	PHP	roa	Non	Lin	My	Lin	Ful	Rea
+437	falcon [waitress]	397	0.1%	0	Mcr	Py	Wsg	wai	Lin	Pg	Lin	Ful	Rea
+438	plumber	198	0.0%	0	Ful	r	Non	Non	Lin	Pg	Lin	Raw	Rea
+439	rocket	1	0.0%	517,599	Ful	rs	rs	hyp	Lin	Pg	Lin	Ful	Rea
+440	act-eclipselink-mysql	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	My	Lin	Ful	Rea
+441	act-eclipselink-mysql-rythm	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	My	Lin	Ful	Rea
+442	act-eclipselink-pgsql	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	Pg	Lin	Ful	Rea
+443	act-eclipselink-pgsql-rythm	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	Pg	Lin	Ful	Rea
+444	act-hibernate-mysql	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	My	Lin	Ful	Rea
+445	act-hibernate-mysql-rythm	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	My	Lin	Ful	Rea
+446	act-hibernate-pgsql	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	Pg	Lin	Ful	Rea
+447	act-hibernate-pgsql-rythm	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	Pg	Lin	Ful	Rea
+448	act-morphia-mongo	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	Mo	Lin	Ful	Rea
+449	act-morphia-mongo-rythm	—	Did not complete	—	Ful	Jav	Utw	Non	Lin	Mo	Lin	Ful	Rea
+450	aioworkers	—	Did not complete	—	Plt	Py	Non	aio	Lin	Pg	Lin	Raw	Rea
+451	amber	—	Did not complete	—	Ful	Cry	Non	Non	Lin	Pg	Lin	Ful	Rea
+452	crax	—	Did not complete	—	Mcr	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+453	jewelia	—	Did not complete	—	non	jul	Non	htt	Lin	My	Lin	Raw	Rea
+454	klein	—	Did not complete	—	Mcr	Py	Non	Twi	Lin	My	Lin	Ful	Rea
+455	cherrypy	—	Did not complete	—	Mcr	Py	Non	Non	Lin	My	Lin	Ful	Rea
+456	cherrypy-py3	—	Did not complete	—	Mcr	Py	Non	Non	Lin	My	Lin	Ful	Rea
+457	pronghorn	—	Did not complete	—	Plt	Kot	pro	Non	Lin	Mo	Lin	Raw	Rea
+458	sailsjs	—	Did not complete	—	Ful	JS	njs	Non	Lin	My	Lin	Mcr	Rea
+459	sailsjs-postgres	—	Did not complete	—	Ful	JS	njs	Non	Lin	Pg	Lin	Ful	Rea
+460	sinatra	—	Did not complete	—	Mcr	Rby	Rac	Pum	Lin	My	Lin	Ful	Rea
+461	sinatra-postgres	—	Did not complete	—	Mcr	Rby	Rac	Pum	Lin	Pg	Lin	Ful	Rea
+462	spider-gazelle	—	Did not complete	—	Ful	Cry	Non	Non	Lin	Pg	Lin	Ful	Rea
+463	 spring-webflux-rxjdbc	—	Did not complete	—	Ful	Jav	Nty	Non	Lin	Pg	Lin	Mcr	Rea
+464	routerling	—	Did not complete	—	Plt	Py	Non	Non	Lin	Pg	Lin	Raw	Rea
+
