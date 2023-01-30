@@ -1,6 +1,11 @@
 
 ## C、C++是高性能语言, golang/java是内存安全语言
 
+## 核心代码行数
+* lib
+	* inc 10650 total
+	* src 20192 total
+
 ## drogon优势
 + 比较健全的中文帮助文档
 + 最快的web应用服务器框架
@@ -15,4 +20,6 @@
 + [中文wiki](https://github.com/drogonframework/drogon/wiki/CHN-01-%E6%A6%82%E8%BF%B0)
 
 
+## 基础
+* cmake
 
